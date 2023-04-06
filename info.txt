@@ -1,0 +1,1 @@
+Paper uso dataset WallStreetBets: https://aclanthology.org/2021.finnlp-1.4.pdf
