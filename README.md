@@ -20,4 +20,4 @@ Carlos Díez Domínguez y Jacobo Osorio Ríos.
 **requirements.txt**: paquetes de Python utilizados requeridos para lanzar el proyecto.
 
 # DOI del dataset
-doi.org/10.5281/zenodo.7856609\
+doi.org/10.5281/zenodo.7856609
