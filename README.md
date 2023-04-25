@@ -1,4 +1,4 @@
-# Integrantes:
+# Integrantes
 
 Carlos Díez Domínguez y Jacobo Osorio Ríos.
 
