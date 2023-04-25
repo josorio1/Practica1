@@ -1,6 +1,6 @@
 # Integrantes:
 
-Carlos Díez Domínguez y Jacobo Osorio Ríos
+Carlos Díez Domínguez y Jacobo Osorio Ríos.
 
 # Descripción del repositorio
 
@@ -8,7 +8,7 @@ Carlos Díez Domínguez y Jacobo Osorio Ríos
 
     - *wsb_dataset.csv*: conjunto de datos scrapeado.
 
-**/source**: carpeta con el código del proyecto
+**/source**: carpeta con el código del proyecto.
 
     - *perform_scrape.py*: pipeline que puede ser ejecutada en la línea de comandos para realizar el scraping
     de WallStreetBets.
